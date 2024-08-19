@@ -1,4 +1,5 @@
 import Todo from './Components/TodoList'
+import Todo1 from './Components/ToList_v2';
 
 function App() {
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <div>
         <Todo/>
+        <Todo1/>
          
       </div>
       
